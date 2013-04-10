@@ -1,0 +1,11 @@
+/*****
+/* print
+/*****/
+body {
+  background-color: blue; }
+
+.visible-print {
+  display: inherit !important; }
+
+.hidden-print {
+  display: none !important; }
